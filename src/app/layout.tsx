@@ -16,8 +16,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body className={`${inter.variable} ${ubuntuMono.variable}`}>
+    <html lang="en" className={`${inter.variable} ${ubuntuMono.variable}`}>
+      <body>
         {children}
       </body>
     </html>
