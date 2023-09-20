@@ -38,6 +38,12 @@ const config: Config = {
           800: '#0a3820',
           900: '#082b19',
         },
+        lemon: '#2DFF0B',
+        blueberry: '#07061D',
+        pistachio: '#D3FFCC',
+        cream: '#E2DFCD',
+        foam: '#D7DAE2',
+        snow: '#FFFFFF',
       }
     },
   },
